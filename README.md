@@ -8,7 +8,9 @@ Scaricare il dataset “Satellite” sul sito http://odds.cs.stonybrook.edu/sate
 I file satellite.mat e shuttle.mat dovrebbero essere convertiti in due file .csv, uno relativo a X e il secondo relativo a y, rispettivamente prima di essere utilizzati dal programma. 
 
 ## Utilizzo dei dati
-Inserire il path ai dati in pd.read_csv() ed eseguire il codice.
+Inserire il path ai dati in pd.read_csv() ed eseguire il codice. Il dataset "Shuttle" può richiedere almeno 30 minuti per completare l'esecuzione.
+
+Si consiglia di eseguire il codice sul sito www.kaggle.com per diminuire i tempi di esecuzione. 
 
 ## Nota
 Il codice è stato sviluppato in autonomia utilizzando la documentazione dei package e i testi accademici consultati.
